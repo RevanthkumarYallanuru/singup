@@ -1,0 +1,111 @@
+.box
+{
+    background: #fff9f9;
+    max-width: 400px;
+    margin: 100px auto 4000px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    transition: all 0.5s;
+    transform: rex;
+}
+
+.headding
+{
+    font-size: 40px;
+    color: #010d79;
+    font-weight: 700;
+    margin: 8px;
+}
+.underline
+{
+    height: 5px;
+    width: 70px;
+    background:  #010d79;
+    border-radius: 9px;
+    margin-bottom: 12px;
+}
+.inputfield
+{
+    display: flex;
+    font-size: 36px;
+    gap: 6px;
+}
+
+.inputfield input
+{
+    background: #eee7e7;
+    padding: 12px;
+    margin: 18px;
+    padding-left: 12px;
+    width: 280px;
+    height: 32px;
+    border-radius: 5px;
+    font-size: 22px;
+}
+.forget
+{
+    padding: 8px;
+    margin-left: -60px;
+    font-size: 20px;
+}
+.forget span
+{
+    color: #010d79;
+    font-weight: 500;
+}
+.submitsection
+{
+    display: flex;
+    gap: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 30px;
+    position: static;
+    bottom: 10px;
+}
+.sub
+{
+    margin-top: 12px;
+    text-align: center;
+    background: #010d79;
+    color: #fff;
+    padding: 13px;
+    border-radius: 8px;
+    width: 98px;
+}
+.subgray
+{
+    margin-top: 12px;
+    text-align: center;
+    background:#fff;
+    color: #010d79;
+    padding: 13px;
+    border-radius: 8px;
+    width: 98px;
+}
+
+.log
+{
+    margin-top: 12px;
+    text-align: center;
+    background: #010d79;
+    color: #fff;
+    padding: 13px;
+    border-radius: 8px;
+    width: 98px;
+}
+
+.loggray
+{
+    margin-top: 12px;
+    text-align: center;
+    background:#fff;
+    color: #010d79;
+    padding: 13px;
+    border-radius: 8px;
+    width: 98px;
+}
